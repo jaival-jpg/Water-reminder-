@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648312947105",
+    "project_id": "hydrated-717c8",
+    "storage_bucket": "hydrated-717c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648312947105:android:912b338dc0ae0f068f0be0",
+        "android_client_info": {
+          "package_name": "com.aistudio.hydrate.mxqwea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKXftHo8WtJo-0Faswecte5Y4THLJS9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
